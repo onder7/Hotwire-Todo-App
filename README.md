@@ -235,16 +235,14 @@ MIT License - Detaylar için [LICENSE](LICENSE) dosyasına bakın.
 ### Görev Düzenleme
 
 ![image](https://github.com/user-attachments/assets/f44aad95-4aec-4fea-8565-4cc709db8384)
-![image](https://github.com/user-attachments/assets/33b48396-8144-49d6-a097-d653d7e93779)
+
 
 
 ### Mobil Görünüm
 
 
 ![image](https://github.com/user-attachments/assets/9836a09d-21cd-44f0-9940-4426ab40d5c2)
-![image](https://github.com/user-attachments/assets/9836a09d-21cd-44f0-9940-4426ab40d5c2)
-![image](https://github.com/user-attachments/assets/70726b3d-7fa7-4a41-b7fd-2dffff2f16b6)
-![image](https://github.com/user-attachments/assets/70726b3d-7fa7-4a41-b7fd-2dffff2f16b6)
+
 
 
 
