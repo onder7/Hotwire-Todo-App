@@ -204,8 +204,8 @@ Server error log'larında toggle işlem detayları:
 ### Development Setup
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/hotwire-todo-app.git
-
+[git clone https://github.com/yourusername/hotwire-todo-app.git
+](https://github.com/onder7/Hotwire-Todo-App.git)
 # Development server
 php -S localhost:8000
 
