@@ -240,7 +240,12 @@ MIT License - Detaylar için [LICENSE](LICENSE) dosyasına bakın.
 
 ### Mobil Görünüm
 
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/9836a09d-21cd-44f0-9940-4426ab40d5c2)
+![image](https://github.com/user-attachments/assets/9836a09d-21cd-44f0-9940-4426ab40d5c2)
+![image](https://github.com/user-attachments/assets/70726b3d-7fa7-4a41-b7fd-2dffff2f16b6)
+![image](https://github.com/user-attachments/assets/70726b3d-7fa7-4a41-b7fd-2dffff2f16b6)
+
 
 
 ---
